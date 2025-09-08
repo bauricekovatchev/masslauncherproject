@@ -1,0 +1,1 @@
+This program calculates a set of three masses and three springs that will, after being dropped from a certain height, propel the top most mass into the air at a maximum velocity, given some constraints on the masses and springs, initial guesses for the masses and the spring constants, and estimated lengths of masses and springs.
